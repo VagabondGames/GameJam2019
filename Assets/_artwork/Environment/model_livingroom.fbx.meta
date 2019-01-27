@@ -137,6 +137,22 @@ ModelImporter:
     100262: pSphere3 2
     100264: pSphere3 3
     100266: xbotRNfosterParent1
+    100268: group20
+    100270: group22
+    100272: group23
+    100274: group24
+    100276: group25
+    100278: group4_pCube22
+    100280: pCube119
+    100282: pCube123
+    100284: pCube124
+    100286: pCube125
+    100288: pCube126
+    100290: pCube93
+    100292: pCube94
+    100294: polySurface14
+    100296: polySurface21
+    100298: transform15
     400000: //RootNode
     400002: pCube1
     400004: pCube10
@@ -271,9 +287,54 @@ ModelImporter:
     400262: pSphere3 2
     400264: pSphere3 3
     400266: xbotRNfosterParent1
+    400268: group20
+    400270: group22
+    400272: group23
+    400274: group24
+    400276: group25
+    400278: group4_pCube22
+    400280: pCube119
+    400282: pCube123
+    400284: pCube124
+    400286: pCube125
+    400288: pCube126
+    400290: pCube93
+    400292: pCube94
+    400294: polySurface14
+    400296: polySurface21
+    400298: transform15
     2100000: lambert1
     2100002: blinn1
     2100004: blinn2
+    2100006: lambert18
+    2100008: lambert19
+    2100010: lambert3
+    2100012: lambert2
+    2100014: lambert17
+    2100016: lambert15
+    2100018: lambert14
+    2100020: lambert16
+    2100022: phong6
+    2100024: phong4
+    2100026: lambert6
+    2100028: lambert4
+    2100030: lambert5
+    2100032: lambert7
+    2100034: lambert12
+    2100036: phong1
+    2100038: lambert13
+    2100040: phong5
+    2100042: lambert8
+    2100044: lambert9
+    2100046: lambert10
+    2100048: lambert11
+    2100050: phong2
+    2100052: phong3
+    2100054: lambert21
+    2100056: lambert20
+    2100058: phong9
+    2100060: phong7
+    2100062: phong10
     2300000: pCube1
     2300002: pCube10
     2300004: pCube11
@@ -383,6 +444,23 @@ ModelImporter:
     2300212: pSphere3 1
     2300214: pSphere3 2
     2300216: pSphere3 3
+    2300218: group20
+    2300220: group22
+    2300222: group23
+    2300224: group24
+    2300226: group25
+    2300228: group4_pCube22
+    2300230: pCube119
+    2300232: pCube123
+    2300234: pCube124
+    2300236: pCube125
+    2300238: pCube126
+    2300240: pCube93
+    2300242: pCube94
+    2300244: polySurface14
+    2300246: polySurface21
+    2300248: pSphere1
+    2300250: transform15
     3300000: pCube1
     3300002: pCube10
     3300004: pCube11
@@ -492,6 +570,23 @@ ModelImporter:
     3300212: pSphere3 1
     3300214: pSphere3 2
     3300216: pSphere3 3
+    3300218: group20
+    3300220: group22
+    3300222: group23
+    3300224: group24
+    3300226: group25
+    3300228: group4_pCube22
+    3300230: pCube119
+    3300232: pCube123
+    3300234: pCube124
+    3300236: pCube125
+    3300238: pCube126
+    3300240: pCube93
+    3300242: pCube94
+    3300244: polySurface14
+    3300246: polySurface21
+    3300248: pSphere1
+    3300250: transform15
     4300000: pPlane1
     4300002: pCube1
     4300004: pCube2
@@ -601,6 +696,23 @@ ModelImporter:
     4300212: pCube47
     4300214: polySurface7
     4300216: polySurface8
+    4300218: pCube93
+    4300220: pCube94
+    4300222: pCube119
+    4300224: group20
+    4300226: group22
+    4300228: group23
+    4300230: polySurface14
+    4300232: polySurface21
+    4300234: group24
+    4300236: group25
+    4300238: group4_pCube22
+    4300240: pCube123
+    4300242: pCube124
+    4300244: pSphere1
+    4300246: pCube125
+    4300248: pCube126
+    4300250: transform15
   externalObjects: {}
   materials:
     importMaterials: 1
